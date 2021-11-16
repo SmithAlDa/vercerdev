@@ -1,0 +1,57 @@
+body{
+    background: #4CA1AF;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #C4E0E5, #4CA1AF);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #C4E0E5, #4CA1AF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+}
+
+.container{ 
+    width: 400px;
+	margin: 50px auto;
+    border: none;
+    border-radius: 15px;
+	height: 400px;
+	padding: 0px 9px 0px 9px;
+    background-color: #FFFFFF;
+    -webkit-box-shadow: 10px 10px 33px -6px rgba(0,0,0,0.45);
+    -moz-box-shadow: 10px 10px 33px -6px rgba(0,0,0,0.45);
+    box-shadow: 10px 10px 33px -6px rgba(0,0,0,0.45);
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+.btnsubmit{
+    border-radius: 10px;
+    border: none;
+    font-size: 1.5rem;
+}
+
+.btnuser{
+    border-radius: 10px;
+    border: none;
+}
+
+.logNav {
+    width: 20rem;
+    height: 20rem;
+    margin-top: -5rem;
+    margin-bottom: -7rem;}
+
+input{ 
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+}
+
+.logoLog {
+    width: 20rem;
+    height: 20rem;
+    margin-bottom: -7rem;
+    margin-top: -5rem
+}
+
+tbody {
+    margin: 0 auto;
+}
+
+tr {
+    text-align: right;
+}

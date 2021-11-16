@@ -1,0 +1,9 @@
+input {
+    width: fit-content;
+    border-radius: 10px;
+}
+
+Dropdown{
+    color: red;
+    text-decoration: none;
+}
